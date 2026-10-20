@@ -1,0 +1,26 @@
+header {
+    background-color: #f70a0a;
+    color: black;
+    text-align: center;
+    padding: 20px;
+}
+
+
+body { background-color: #121213fb; color: #f50606; }
+
+nav a {
+    color: #64eb0a;
+}
+
+
+nav a:hover {
+    color: #0895d1;
+    text-decoration: underline;
+}
+
+section {
+    background-color: rgb(62, 73, 85);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;
+}
